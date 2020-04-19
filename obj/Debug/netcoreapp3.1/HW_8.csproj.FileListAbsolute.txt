@@ -1,0 +1,11 @@
+C:\Users\SHOHIN\Desktop\c#_projects\HW_8\bin\Debug\netcoreapp3.1\HW_8.exe
+C:\Users\SHOHIN\Desktop\c#_projects\HW_8\bin\Debug\netcoreapp3.1\HW_8.deps.json
+C:\Users\SHOHIN\Desktop\c#_projects\HW_8\bin\Debug\netcoreapp3.1\HW_8.runtimeconfig.json
+C:\Users\SHOHIN\Desktop\c#_projects\HW_8\bin\Debug\netcoreapp3.1\HW_8.runtimeconfig.dev.json
+C:\Users\SHOHIN\Desktop\c#_projects\HW_8\bin\Debug\netcoreapp3.1\HW_8.dll
+C:\Users\SHOHIN\Desktop\c#_projects\HW_8\bin\Debug\netcoreapp3.1\HW_8.pdb
+C:\Users\SHOHIN\Desktop\c#_projects\HW_8\obj\Debug\netcoreapp3.1\HW_8.csprojAssemblyReference.cache
+C:\Users\SHOHIN\Desktop\c#_projects\HW_8\obj\Debug\netcoreapp3.1\HW_8.AssemblyInfoInputs.cache
+C:\Users\SHOHIN\Desktop\c#_projects\HW_8\obj\Debug\netcoreapp3.1\HW_8.AssemblyInfo.cs
+C:\Users\SHOHIN\Desktop\c#_projects\HW_8\obj\Debug\netcoreapp3.1\HW_8.dll
+C:\Users\SHOHIN\Desktop\c#_projects\HW_8\obj\Debug\netcoreapp3.1\HW_8.pdb
